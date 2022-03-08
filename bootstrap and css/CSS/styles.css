@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(200, 226, 218);
+    font-family: 'Lato', sans-serif;
+}
+
+ h1,h2,h3{
+    text-align: center;
+}
+
+ .spg{
+    text-align: center;
+    box-shadow: 4px;
+  
+} 
+.jumbotron{
+    background-image: url(../IMG/banner-jpg.jpg) ;    
+    background-size: cover;
+    background-position: center;
+    
+    
+}
+.ul,.li,.ol{
+    text-align: center;
+}
+
+.description{
+    text-align: center;
+} 
